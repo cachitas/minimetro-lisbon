@@ -1,7 +1,7 @@
 # Mini Metro Custom Map: Lisbon
 
 [Mini Metro](
-dinopoloclub.com/games/mini-metro)
+https://dinopoloclub.com/games/mini-metro)
 
 > **Warning**
 >
